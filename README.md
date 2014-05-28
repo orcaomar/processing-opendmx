@@ -1,9 +1,9 @@
 processing-opendmx
 ==================
 
-Control OpenDMX hardware from Processing (Windows Only)
+Control Open DMX hardware from Processing (Windows Only)
 
-Simple library for controlling an OpenDMX device from Windows, directly in Processing. Currently, this is output only.
+Simple library for controlling an Open DMX device from Windows, directly in Processing. Currently, this is output only.
 
 This library only works on Windows. In particular, this program assumes you've installed the appropriate drivers for your OpenDMX device and you have the FTD2XX.DLL. You can find these drivers at:
 
