@@ -15,7 +15,7 @@ To install, click the "Download ZIP" button on this page and place the "opendmx"
 
 CREDITS
 
-Getting this working would not have been possible without the VB.net code from 
+Getting this working would not have been possible without the VB.NET code from 
 
 http://members.westnet.com.au/rowanmac/opendmx.html
 
